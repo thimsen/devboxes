@@ -1,0 +1,10 @@
+su - vagrant
+sudo apt-get -y install git
+sudo apt-get -y install build-essential
+sudo apt-get -y install libssl-dev
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
+nvm install --lts
+
+
+https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz
+https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
